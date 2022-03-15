@@ -1,2 +1,2 @@
-# BootstrapOdev1-M-zik_D-kkani
+# BootstrapOdev1
 Bootstrap ile tasarım ödev-1
